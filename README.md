@@ -2,7 +2,7 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 # Live Link
-<a href="https://movix-pi-nine.vercel.app/" target="_blank"> Visit </a>
+<a href="https://movix-pi-nine.vercel.app/" target="_blank"> https://movix-pi-nine.vercel.app </a>
 # Hooks
 - useState  <br/>
 - useEffect <br/>
