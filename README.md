@@ -2,13 +2,13 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 # Hooks
-1.useState  <br/>
-2.useEffect <br/>
-3.useRef <br/>
-4.useParams <br/>
-5.useLocation <br/>
-6.useSelector <br/>
-7.useDispatch <br/>
+- useState  <br/>
+- useEffect <br/>
+- useRef <br/>
+- useParams <br/>
+- useLocation <br/>
+- useSelector <br/>
+- useDispatch <br/>
 # Api use 
 TMDB
 # Pakages
