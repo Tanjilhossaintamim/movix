@@ -12,7 +12,7 @@ This template provides a minimal setup to get React working in Vite with HMR and
 - useSelector <br/>
 - useDispatch <br/>
 # Api use 
-TMDB
+<a href="https://www.themoviedb.org/" target="_blank" >TMDB</a>
 # Pakages
 1.axios <br/>
 2.dayjs <br/>
