@@ -2,24 +2,24 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 # Hooks
-1.useState
-2.useEffect
-3.useRef
-4.useParams
-5.useLocation
-6.useSelector
-7.useDispatch
+1.useState  <br/>
+2.useEffect <br/>
+3.useRef <br/>
+4.useParams <br/>
+5.useLocation <br/>
+6.useSelector <br/>
+7.useDispatch <br/>
 # Api use 
 TMDB
-#Pakages
-1.axios
-2.dayjs
-3.react-circular-progressbar
-4.react-icons
-5.react-infinite-scroll-component
-6.react-lazy-load-image-component
-7.redux-toolkit
-8.react-redux
-9.react-router-dom
-10.react-select
+# Pakages
+1.axios <br/>
+2.dayjs <br/>
+3.react-circular-progressbar <br/>
+4.react-icons <br/>
+5.react-infinite-scroll-component <br/>
+6.react-lazy-load-image-component <br/>
+7.redux-toolkit <br/>
+8.react-redux <br/>
+9.react-router-dom <br/>
+10.react-select <br/>
 11.sass
